@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3fba81d2e6d9ff2d77e92345d5f79f7dc0151e14",
+  "SCAN_LINK": "https://etherscan.io/address/0x3fba81d2e6d9ff2d77e92345d5f79f7dc0151e14",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "CircleJerk",
+  "SYMBOL": "CircleJerk",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/circlejerkz",
+  "SHOW_BACKGROUND": false
+}
